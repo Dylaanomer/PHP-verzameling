@@ -1,0 +1,12 @@
+C:\xampp\htdocs\Project\HTML-CSS-JS\c-sharp-introductie-Dylaanomer\Getallen\Rekenaar\bin\Debug\net5.0\Rekenaar.deps.json
+C:\xampp\htdocs\Project\HTML-CSS-JS\c-sharp-introductie-Dylaanomer\Getallen\Rekenaar\bin\Debug\net5.0\Rekenaar.dll
+C:\xampp\htdocs\Project\HTML-CSS-JS\c-sharp-introductie-Dylaanomer\Getallen\Rekenaar\bin\Debug\net5.0\ref\Rekenaar.dll
+C:\xampp\htdocs\Project\HTML-CSS-JS\c-sharp-introductie-Dylaanomer\Getallen\Rekenaar\bin\Debug\net5.0\Rekenaar.pdb
+C:\xampp\htdocs\Project\HTML-CSS-JS\c-sharp-introductie-Dylaanomer\Getallen\Rekenaar\obj\Debug\net5.0\Rekenaar.csprojAssemblyReference.cache
+C:\xampp\htdocs\Project\HTML-CSS-JS\c-sharp-introductie-Dylaanomer\Getallen\Rekenaar\obj\Debug\net5.0\Rekenaar.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Project\HTML-CSS-JS\c-sharp-introductie-Dylaanomer\Getallen\Rekenaar\obj\Debug\net5.0\Rekenaar.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Project\HTML-CSS-JS\c-sharp-introductie-Dylaanomer\Getallen\Rekenaar\obj\Debug\net5.0\Rekenaar.AssemblyInfo.cs
+C:\xampp\htdocs\Project\HTML-CSS-JS\c-sharp-introductie-Dylaanomer\Getallen\Rekenaar\obj\Debug\net5.0\Rekenaar.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Project\HTML-CSS-JS\c-sharp-introductie-Dylaanomer\Getallen\Rekenaar\obj\Debug\net5.0\Rekenaar.dll
+C:\xampp\htdocs\Project\HTML-CSS-JS\c-sharp-introductie-Dylaanomer\Getallen\Rekenaar\obj\Debug\net5.0\ref\Rekenaar.dll
+C:\xampp\htdocs\Project\HTML-CSS-JS\c-sharp-introductie-Dylaanomer\Getallen\Rekenaar\obj\Debug\net5.0\Rekenaar.pdb

@@ -1,0 +1,16 @@
+C:\Users\volka\source\repos\Getallen\Opdracht2\bin\Debug\net5.0\Opdracht2.exe
+C:\Users\volka\source\repos\Getallen\Opdracht2\bin\Debug\net5.0\Opdracht2.deps.json
+C:\Users\volka\source\repos\Getallen\Opdracht2\bin\Debug\net5.0\Opdracht2.runtimeconfig.json
+C:\Users\volka\source\repos\Getallen\Opdracht2\bin\Debug\net5.0\Opdracht2.runtimeconfig.dev.json
+C:\Users\volka\source\repos\Getallen\Opdracht2\bin\Debug\net5.0\Opdracht2.dll
+C:\Users\volka\source\repos\Getallen\Opdracht2\bin\Debug\net5.0\ref\Opdracht2.dll
+C:\Users\volka\source\repos\Getallen\Opdracht2\bin\Debug\net5.0\Opdracht2.pdb
+C:\Users\volka\source\repos\Getallen\Opdracht2\obj\Debug\net5.0\Opdracht2.csprojAssemblyReference.cache
+C:\Users\volka\source\repos\Getallen\Opdracht2\obj\Debug\net5.0\Opdracht2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volka\source\repos\Getallen\Opdracht2\obj\Debug\net5.0\Opdracht2.AssemblyInfoInputs.cache
+C:\Users\volka\source\repos\Getallen\Opdracht2\obj\Debug\net5.0\Opdracht2.AssemblyInfo.cs
+C:\Users\volka\source\repos\Getallen\Opdracht2\obj\Debug\net5.0\Opdracht2.csproj.CoreCompileInputs.cache
+C:\Users\volka\source\repos\Getallen\Opdracht2\obj\Debug\net5.0\Opdracht2.dll
+C:\Users\volka\source\repos\Getallen\Opdracht2\obj\Debug\net5.0\ref\Opdracht2.dll
+C:\Users\volka\source\repos\Getallen\Opdracht2\obj\Debug\net5.0\Opdracht2.pdb
+C:\Users\volka\source\repos\Getallen\Opdracht2\obj\Debug\net5.0\Opdracht2.genruntimeconfig.cache
